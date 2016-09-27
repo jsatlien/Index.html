@@ -1,0 +1,61 @@
+#logo {
+  border: 1px solid white;
+  color: white;
+  padding: 2px 8px;
+
+
+}
+
+#brand {
+  font-size: 11pt
+}
+
+nav {
+  background-color: lightslategrey;
+  color: black;
+  padding: 5px 30px;
+  text-decoration: none;
+  font-color: black;
+  text-align: left;
+
+}
+
+.headlines a {
+  text-decoration: none;
+  color: black;
+  font-size: 10pt;
+}
+
+.details {
+  font-size: 7pt;
+  padding-left: 16px;
+}
+
+* {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.login {
+  padding-left: 140px;
+}
+
+li {
+  color: grey;
+  border-bottom: 3px
+}
+
+.mainbody {
+  border-bottom: 2px solid grey;
+}
+
+.bottomsearch {
+  font-size: 8pt;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.Searchbar {
+  font-size: 10pt;
+  text-align: center;
+  margin-top: 15px;
+}
